@@ -1,0 +1,32 @@
+{
+  "pricingVersion": "2026.09",
+  "minimumService": 250,
+  "services": {
+    "roofSoftWash": {
+      "label": "Roof Soft Wash",
+      "ratePerSqFt": 0.35
+    },
+    "houseSoftWash": {
+      "label": "Siding / House Soft Wash",
+      "ratePerSqFt": 0.2
+    },
+    "drivewayCleaning": {
+      "label": "Driveway & Walkway Surface Cleaning",
+      "ratePerSqFt": 0.12
+    }
+  },
+  "addons": {
+    "rustRemoval": {
+      "label": "Scale/Rust Stain Removal",
+      "flatRate": 75
+    },
+    "gutterBrightening": {
+      "label": "Gutter Brightening",
+      "flatRate": 75
+    },
+    "oilTreatment": {
+      "label": "Degreasing / Oil Stain Spot Treatment",
+      "flatRate": 50
+    }
+  }
+}
