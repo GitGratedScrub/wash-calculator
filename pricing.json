@@ -1,18 +1,18 @@
 {
   "pricingVersion": "2026.09",
-  "minimumService": 250,
+  "minimumService": 200,
   "services": {
     "roofSoftWash": {
       "label": "Roof Soft Wash",
-      "ratePerSqFt": 0.35
+      "ratePerSqFt": 0.30
     },
     "houseSoftWash": {
       "label": "Siding / House Soft Wash",
-      "ratePerSqFt": 0.2
+      "ratePerSqFt": 0.1
     },
     "drivewayCleaning": {
       "label": "Driveway & Walkway Surface Cleaning",
-      "ratePerSqFt": 0.12
+      "ratePerSqFt": 0.2
     }
   },
   "addons": {
